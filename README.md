@@ -1,3 +1,6 @@
+#OutPut
+![PHOTO-2025-03-17-23-59-53](https://github.com/user-attachments/assets/a2ae9a26-4b13-41ce-a442-97fa9916992d)
+
 📊 Features:
 
 Real-time data tracking for sales analysis.
